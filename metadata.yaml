@@ -1,0 +1,27 @@
+_repo: Reminiscences-of-an-Army-nurse-during-the-Civil-War_74812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Adelaide W.
+    gutenberg_agent_id: '57662'
+    url: http://www.gutenberg.org/2009/agents/57662
+description: ''
+gutenberg_issued: '2024-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74812'
+language: en
+pgterms:marc904: https://archive.org/details/reminiscencesofa00smituoft
+pgterms:marc905: 20240612074604smith
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Carol Brown and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bGreaves publishing company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reminiscences of an Army nurse during the Civil War
+url: http://www.gutenberg.org/ebooks/74812
